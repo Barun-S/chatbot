@@ -1,0 +1,27 @@
+.titlebar{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 2.5em;
+    background-color: #000041;
+    color: aliceblue;
+}
+
+.parent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.patient{
+    margin : 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(248, 251, 253);
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
+    width :80%
+
+}

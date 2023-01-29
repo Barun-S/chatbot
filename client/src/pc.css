@@ -1,0 +1,17 @@
+.content1{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.titlebar{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 2.5em;
+    background-color: #000041;
+    color: aliceblue;
+}

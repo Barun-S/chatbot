@@ -1,0 +1,16 @@
+/* .App{
+    display: flex;
+    justify-content: center;
+} */
+
+.switchTab{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.canvas {
+  display: flex;
+  justify-content: center;
+  /* padding-left: 50px; */
+}
+
