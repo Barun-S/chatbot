@@ -31,7 +31,7 @@ from nltk.stem import PorterStemmer
 from pymongo import MongoClient
 import json
 cluster = MongoClient(
-    "mongodb+srv://barun:baruns@cluster0.4qyqs6e.mongodb.net/?retryWrites=true&w=majority")
+    "mongodb+srv://barun:<password>@cluster0.4qyqs6e.mongodb.net/?retryWrites=true&w=majority")
 
 db = cluster["chatbot_database"]
 collection = db["chatbot_dataset"]
